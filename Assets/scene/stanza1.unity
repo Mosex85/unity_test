@@ -26826,7 +26826,7 @@ GameObject:
   - 4: {fileID: 672445560}
   - 33: {fileID: 672445562}
   - 23: {fileID: 672445561}
-  - 64: {fileID: 672445565}
+  - 65: {fileID: 672445563}
   m_Layer: 0
   m_Name: Mesh105
   m_TagString: Scrivania
@@ -26877,8 +26877,8 @@ MeshFilter:
   m_PrefabInternal: {fileID: 140190880}
   m_GameObject: {fileID: 672445559}
   m_Mesh: {fileID: 4300208, guid: 005a33b578f03e04c85df153c8e0347a, type: 3}
---- !u!64 &672445565
-MeshCollider:
+--- !u!65 &672445563
+BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -26887,9 +26887,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300208, guid: 005a33b578f03e04c85df153c8e0347a, type: 3}
+  m_Size: {x: 1.72874999, y: .515759528, z: .832499981}
+  m_Center: {x: -1.41808736, y: .257879764, z: -1.10259855}
 --- !u!1 &677739586
 GameObject:
   m_ObjectHideFlags: 0
@@ -72381,6 +72380,64 @@ Transform:
   m_Children:
   - {fileID: 1878233471}
   m_Father: {fileID: 1604833002}
+--- !u!1 &1786363155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 1786363157}
+  - 131: {fileID: 1786363156}
+  - 114: {fileID: 1786363158}
+  m_Layer: 0
+  m_Name: guihud
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!131 &1786363156
+GUITexture:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1786363155}
+  m_Enabled: 0
+  m_Texture: {fileID: 2800000, guid: 2c827d602037b6847a97446cb271dac9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: .501960814}
+  m_PixelInset:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+  m_LeftBorder: 0
+  m_RightBorder: 0
+  m_TopBorder: 0
+  m_BottomBorder: 0
+--- !u!4 &1786363157
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1786363155}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .5, y: .5, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &1786363158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1786363155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15405f6a91ef6374ca159c073094c27d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1788949175
 GameObject:
   m_ObjectHideFlags: 0
@@ -81162,7 +81219,7 @@ GameObject:
   - 4: {fileID: 2006697502}
   - 33: {fileID: 2006697505}
   - 23: {fileID: 2006697504}
-  - 64: {fileID: 2006697503}
+  - 135: {fileID: 2006697503}
   m_Layer: 0
   m_Name: Mesh104
   m_TagString: Poltrona
@@ -81181,8 +81238,8 @@ Transform:
   m_LocalScale: {x: .800000012, y: .800000012, z: .800000012}
   m_Children: []
   m_Father: {fileID: 1382236991}
---- !u!64 &2006697503
-MeshCollider:
+--- !u!135 &2006697503
+SphereCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -81191,9 +81248,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300206, guid: 005a33b578f03e04c85df153c8e0347a, type: 3}
+  m_Radius: .413754642
+  m_Center: {x: -1.01329052, y: .413147926, z: -.404445231}
 --- !u!23 &2006697504
 Renderer:
   m_ObjectHideFlags: 0
