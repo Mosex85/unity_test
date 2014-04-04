@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 8c7dd3b4e091a7e48ae360ded46131f4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Circle.001_Circle.010_Circle.001_Circle.010_Material.005
+    100002: Circle.001_Circle_Circle.001_Circle_Material.005
+    100004: Circle.002_Circle_Cir_Circle.002_Circle_Cir_Material.003
+    100006: Circle.002_Circle_Circle.002_Circle_Material.003
+    100008: Circle.006_Circle_Cir_Circle.006_Circle_Cir_Material.004
+    100010: Circle.006_Circle_Circle.006_Circle_Material.004
+    100012: Circle.007_Circle_Cir_Circle.007_Circle_Cir_Material
+    100014: Circle.007_Circle_Circle.007_Circle_Material
+    100016: Circle_Circle.004_Cir_Circle_Circle.004_Cir_Material.002
+    100018: Circle_Circle.004_Circle_Circle.004_Material.002
+    100020: Cube_Cube_Material.00_Cube_Cube_Material.00_Material.001
+    100022: Cube_Cube_Material_Ma_Cube_Cube_Material_Ma_Material
+    100024: //RootNode
+    400000: Circle.001_Circle.010_Circle.001_Circle.010_Material.005
+    400002: Circle.001_Circle_Circle.001_Circle_Material.005
+    400004: Circle.002_Circle_Cir_Circle.002_Circle_Cir_Material.003
+    400006: Circle.002_Circle_Circle.002_Circle_Material.003
+    400008: Circle.006_Circle_Cir_Circle.006_Circle_Cir_Material.004
+    400010: Circle.006_Circle_Circle.006_Circle_Material.004
+    400012: Circle.007_Circle_Cir_Circle.007_Circle_Cir_Material
+    400014: Circle.007_Circle_Circle.007_Circle_Material
+    400016: Circle_Circle.004_Cir_Circle_Circle.004_Cir_Material.002
+    400018: Circle_Circle.004_Circle_Circle.004_Material.002
+    400020: Cube_Cube_Material.00_Cube_Cube_Material.00_Material.001
+    400022: Cube_Cube_Material_Ma_Cube_Cube_Material_Ma_Material
+    400024: //RootNode
+    2300000: Circle.001_Circle.010_Circle.001_Circle.010_Material.005
+    2300002: Circle.001_Circle_Circle.001_Circle_Material.005
+    2300004: Circle.002_Circle_Cir_Circle.002_Circle_Cir_Material.003
+    2300006: Circle.002_Circle_Circle.002_Circle_Material.003
+    2300008: Circle.006_Circle_Cir_Circle.006_Circle_Cir_Material.004
+    2300010: Circle.006_Circle_Circle.006_Circle_Material.004
+    2300012: Circle.007_Circle_Cir_Circle.007_Circle_Cir_Material
+    2300014: Circle.007_Circle_Circle.007_Circle_Material
+    2300016: Circle_Circle.004_Cir_Circle_Circle.004_Cir_Material.002
+    2300018: Circle_Circle.004_Circle_Circle.004_Material.002
+    2300020: Cube_Cube_Material.00_Cube_Cube_Material.00_Material.001
+    2300022: Cube_Cube_Material_Ma_Cube_Cube_Material_Ma_Material
+    3300000: Circle.001_Circle.010_Circle.001_Circle.010_Material.005
+    3300002: Circle.001_Circle_Circle.001_Circle_Material.005
+    3300004: Circle.002_Circle_Cir_Circle.002_Circle_Cir_Material.003
+    3300006: Circle.002_Circle_Circle.002_Circle_Material.003
+    3300008: Circle.006_Circle_Cir_Circle.006_Circle_Cir_Material.004
+    3300010: Circle.006_Circle_Circle.006_Circle_Material.004
+    3300012: Circle.007_Circle_Cir_Circle.007_Circle_Cir_Material
+    3300014: Circle.007_Circle_Circle.007_Circle_Material
+    3300016: Circle_Circle.004_Cir_Circle_Circle.004_Cir_Material.002
+    3300018: Circle_Circle.004_Circle_Circle.004_Material.002
+    3300020: Cube_Cube_Material.00_Cube_Cube_Material.00_Material.001
+    3300022: Cube_Cube_Material_Ma_Cube_Cube_Material_Ma_Material
+    4300000: Circle.001_Circle.010_Circle.001_Circle.010_Material.005
+    4300002: Circle.001_Circle_Circle.001_Circle_Material.005
+    4300004: Circle.002_Circle_Cir_Circle.002_Circle_Cir_Material.003
+    4300006: Circle.002_Circle_Circle.002_Circle_Material.003
+    4300008: Circle.006_Circle_Cir_Circle.006_Circle_Cir_Material.004
+    4300010: Circle.006_Circle_Circle.006_Circle_Material.004
+    4300012: Circle.007_Circle_Cir_Circle.007_Circle_Cir_Material
+    4300014: Circle.007_Circle_Circle.007_Circle_Material
+    4300016: Circle_Circle.004_Cir_Circle_Circle.004_Cir_Material.002
+    4300018: Circle_Circle.004_Circle_Circle.004_Material.002
+    4300020: Cube_Cube_Material.00_Cube_Cube_Material.00_Material.001
+    4300022: Cube_Cube_Material_Ma_Cube_Cube_Material_Ma_Material
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
