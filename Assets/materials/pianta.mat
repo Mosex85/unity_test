@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: pianta
-  m_Shader: {fileID: 33, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 31, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: []
   m_CustomRenderQueue: -1
   m_SavedProperties:
@@ -46,7 +46,7 @@ Material:
       data:
         first:
           name: _Shininess
-        second: .00999999978
+        second: .0792755932
       data:
         first:
           name: _Parallax
